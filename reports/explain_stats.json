@@ -1,0 +1,68 @@
+{
+    "explain_before": {
+        "query_1_by_status": {
+            "executionTimeMillis": 336472,
+            "totalDocsExamined": 60000000,
+            "nReturned": 0
+        },
+        "query_3_by_date_range": {
+            "executionTimeMillis": 15,
+            "totalDocsExamined": 0,
+            "nReturned": 0
+        },
+        "query_4_compound_status_date": {
+            "executionTimeMillis": 1,
+            "totalDocsExamined": 0,
+            "nReturned": 0
+        }
+    },
+    "explain_after": {
+        "query_1_by_status": {
+            "executionTimeMillis": 33,
+            "totalDocsExamined": 0,
+            "nReturned": 0
+        },
+        "query_3_by_date_range": {
+            "executionTimeMillis": 1,
+            "totalDocsExamined": 0,
+            "nReturned": 0
+        },
+        "query_4_compound_status_date": {
+            "executionTimeMillis": 1,
+            "totalDocsExamined": 0,
+            "nReturned": 0
+        }
+    },
+    "queries_summary": {
+        "query_1_by_status": {
+            "query": "{'status': 'paid'}",
+            "match_count": 0,
+            "execution_time_ms": 12.99,
+            "sample": null
+        },
+        "query_2_by_city": {
+            "query": "{'city': 'Sanaa'}",
+            "match_count": 0,
+            "execution_time_ms": 191385.14,
+            "sample": null
+        },
+        "query_3_by_date_range": {
+            "query": "{'created_at': {'$gte': '2025-01-01T00:00:00', '$lte': '2025-06-30T23:59:59'}}",
+            "match_count": 0,
+            "execution_time_ms": 2.03,
+            "sample": null
+        },
+        "query_4_compound_status_date": {
+            "query": "{'status': 'paid', 'created_at': {'$gte': '2025-01-01T00:00:00'}}",
+            "match_count": 0,
+            "execution_time_ms": 3.06,
+            "sample": null
+        },
+        "query_5_high_value_orders": {
+            "query": "{'payment_amount': {'$gt': 500000}}",
+            "match_count": 0,
+            "execution_time_ms": 197703.61,
+            "sample": null
+        }
+    }
+}

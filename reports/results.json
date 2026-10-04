@@ -1,0 +1,70 @@
+{
+    "total_records": 30000000,
+    "status_summary": [
+        {
+            "_id": "حالة غير معروفة تمامًا",
+            "total_orders": 210194,
+            "total_revenue": 0
+        },
+        {
+            "_id": "قيد الشحن",
+            "total_orders": 4911108,
+            "total_revenue": 0
+        },
+        {
+            "_id": "قيد الانتظار",
+            "total_orders": 4910226,
+            "total_revenue": 0
+        },
+        {
+            "_id": "مؤكد",
+            "total_orders": 4908259,
+            "total_revenue": 0
+        },
+        {
+            "_id": "مرتجع",
+            "total_orders": 4908626,
+            "total_revenue": 0
+        },
+        {
+            "_id": "  ملغي  ",
+            "total_orders": 55686,
+            "total_revenue": 0
+        },
+        {
+            "_id": "ملغي",
+            "total_orders": 4910029,
+            "total_revenue": 0
+        },
+        {
+            "_id": "تم التسليم",
+            "total_orders": 4907753,
+            "total_revenue": 0
+        },
+        {
+            "_id": "  مؤكد  ",
+            "total_orders": 55545,
+            "total_revenue": 0
+        },
+        {
+            "_id": "  قيد الشحن  ",
+            "total_orders": 55633,
+            "total_revenue": 0
+        },
+        {
+            "_id": "  قيد الانتظار  ",
+            "total_orders": 55577,
+            "total_revenue": 0
+        },
+        {
+            "_id": "  تم التسليم  ",
+            "total_orders": 55571,
+            "total_revenue": 0
+        },
+        {
+            "_id": "  مرتجع  ",
+            "total_orders": 55793,
+            "total_revenue": 0
+        }
+    ]
+}

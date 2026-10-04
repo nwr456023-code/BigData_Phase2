@@ -1,0 +1,242 @@
+{
+    "sales_by_city": [
+        {
+            "_id": "الحديدة",
+            "total_sales": 0,
+            "count": 9955
+        },
+        {
+            "_id": "عمران",
+            "total_sales": 0,
+            "count": 9924
+        },
+        {
+            "_id": "المكلا",
+            "total_sales": 0,
+            "count": 9963
+        },
+        {
+            "_id": "صنعاء",
+            "total_sales": 0,
+            "count": 9983
+        },
+        {
+            "_id": "إب",
+            "total_sales": 0,
+            "count": 9842
+        },
+        {
+            "_id": "حجة",
+            "total_sales": 0,
+            "count": 9986
+        },
+        {
+            "_id": "لحج",
+            "total_sales": 0,
+            "count": 10111
+        },
+        {
+            "_id": "عدن",
+            "total_sales": 0,
+            "count": 10093
+        },
+        {
+            "_id": "تعز",
+            "total_sales": 0,
+            "count": 10027
+        },
+        {
+            "_id": "ذمار",
+            "total_sales": 0,
+            "count": 10116
+        }
+    ],
+    "top_products": [
+        {
+            "_id": "[{\"sku\":\"SKU-1010\",\"name\":\"هاتف سامسونج A54\",\"qty\":3,\"unit_price\":246000.0,\"total\":738000.0},{\"sku\":\"SKU-1008\",\"name\":\"محول HDMI\",\"qty\":1,\"unit_price\":15000.0,\"total\":15000.0},{\"sku\":\"SKU-1002\",\"name\":\"فأرة لاسلكية\",\"qty\":1,\"unit_price\":11000.0,\"total\":11000.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1002\",\"name\":\"فأرة لاسلكية\",\"qty\":3,\"unit_price\":11500.0,\"total\":34500.0},{\"sku\":\"SKU-1008\",\"name\":\"محول HDMI\",\"qty\":2,\"unit_price\":11000.0,\"total\":22000.0},{\"sku\":\"SKU-1007\",\"name\":\"قرص SSD محمول\",\"qty\":2,\"unit_price\":180000.0,\"total\":360000.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1002\",\"name\":\"فأرة لاسلكية\",\"qty\":3,\"unit_price\":11000.0,\"total\":33000.0},{\"sku\":\"SKU-1010\",\"name\":\"هاتف سامسونج A54\",\"qty\":2,\"unit_price\":189000.0,\"total\":378000.0},{\"sku\":\"SKU-1007\",\"name\":\"قرص SSD محمول\",\"qty\":3,\"unit_price\":144500.0,\"total\":433500.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1009\",\"name\":\"شاحن سريع\",\"qty\":2,\"unit_price\":11500.0,\"total\":23000.0},{\"sku\":\"SKU-1002\",\"name\":\"فأرة لاسلكية\",\"qty\":3,\"unit_price\":7500.0,\"total\":22500.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1007\",\"name\":\"قرص SSD محمول\",\"qty\":1,\"unit_price\":127000.0,\"total\":127000.0},{\"sku\":\"SKU-1002\",\"name\":\"فأرة لاسلكية\",\"qty\":1,\"unit_price\":7500.0,\"total\":7500.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1002\",\"name\":\"فأرة لاسلكية\",\"qty\":3,\"unit_price\":8000.0,\"total\":24000.0},{\"sku\":\"SKU-1007\",\"name\":\"قرص SSD محمول\",\"qty\":3,\"unit_price\":144500.0,\"total\":433500.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1007\",\"name\":\"قرص SSD محمول\",\"qty\":2,\"unit_price\":146000.0,\"total\":292000.0},{\"sku\":\"SKU-1002\",\"name\":\"فأرة لاسلكية\",\"qty\":3,\"unit_price\":10000.0,\"total\":30000.0},{\"sku\":\"SKU-1010\",\"name\":\"هاتف سامسونج A54\",\"qty\":2,\"unit_price\":196500.0,\"total\":393000.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1005\",\"name\":\"سماعات رأس\",\"qty\":2,\"unit_price\":36500.0,\"total\":73000.0},{\"sku\":\"SKU-1005\",\"name\":\"سماعات رأس\",\"qty\":2,\"unit_price\":17000.0,\"total\":34000.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1008\",\"name\":\"محول HDMI\",\"qty\":2,\"unit_price\":14000.0,\"total\":28000.0},{\"sku\":\"SKU-1007\",\"name\":\"قرص SSD محمول\",\"qty\":1,\"unit_price\":104500.0,\"total\":104500.0},{\"sku\":\"SKU-1005\",\"name\":\"سماعات رأس\",\"qty\":2,\"unit_price\":21000.0,\"total\":42000.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        },
+        {
+            "_id": "[{\"sku\":\"SKU-1009\",\"name\":\"شاحن سريع\",\"qty\":2,\"unit_price\":\"١١٠٠٠٫٠\",\"total\":22000.0},{\"sku\":\"SKU-1005\",\"name\":\"سماعات رأس\",\"qty\":3,\"unit_price\":20000.0,\"total\":60000.0}]",
+            "total_orders": 1,
+            "total_revenue": 0
+        }
+    ],
+    "top_customers": [
+        {
+            "_id": "عميل-17470",
+            "customer_name": "هدى سالم",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-63454",
+            "customer_name": "فاطمة أحمد",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-73527",
+            "customer_name": "يوسف طارق",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-88079",
+            "customer_name": "أحمد محمد",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-82350",
+            "customer_name": "سارة ياسر",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-36652",
+            "customer_name": "ريم عادل",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-17804",
+            "customer_name": "يوسف طارق",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-72845",
+            "customer_name": "أحمد محمد",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-72977",
+            "customer_name": "فاطمة أحمد",
+            "total_spent": 0,
+            "orders_count": 1
+        },
+        {
+            "_id": "عميل-51749",
+            "customer_name": "فاطمة أحمد",
+            "total_spent": 0,
+            "orders_count": 1
+        }
+    ],
+    "sales_by_period": [
+        {
+            "_id": "",
+            "monthly_sales": 0,
+            "total_orders": 100000
+        }
+    ],
+    "orders_by_status": [
+        {
+            "_id": "قيد الشحن",
+            "count": 16365,
+            "total_value": 0
+        },
+        {
+            "_id": "قيد الانتظار",
+            "count": 16281,
+            "total_value": 0
+        },
+        {
+            "_id": "مؤكد",
+            "count": 16450,
+            "total_value": 0
+        },
+        {
+            "_id": "مرتجع",
+            "count": 16455,
+            "total_value": 0
+        },
+        {
+            "_id": "ملغي",
+            "count": 16408,
+            "total_value": 0
+        },
+        {
+            "_id": "  ملغي  ",
+            "count": 186,
+            "total_value": 0
+        },
+        {
+            "_id": "تم التسليم",
+            "count": 16254,
+            "total_value": 0
+        },
+        {
+            "_id": "  مؤكد  ",
+            "count": 184,
+            "total_value": 0
+        },
+        {
+            "_id": "  قيد الشحن  ",
+            "count": 171,
+            "total_value": 0
+        },
+        {
+            "_id": "  تم التسليم  ",
+            "count": 176,
+            "total_value": 0
+        },
+        {
+            "_id": "  قيد الانتظار  ",
+            "count": 165,
+            "total_value": 0
+        },
+        {
+            "_id": "  مرتجع  ",
+            "count": 187,
+            "total_value": 0
+        },
+        {
+            "_id": "حالة غير معروفة تمامًا",
+            "count": 718,
+            "total_value": 0
+        }
+    ]
+}

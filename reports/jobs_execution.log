@@ -1,0 +1,9 @@
+2026-10-04 18:26:01,429 - INFO - بدء تنفيذ مهمة تحديث Materialized Views...
+2026-10-04 18:26:02,849 - INFO - SUCCESS: تم تحديث Materialized Views بنجاح خلال 1.42 ثانية.
+2026-10-04 18:26:02,849 - INFO - بدء تنفيذ مهمة الفحص الدوري والتقارير...
+2026-10-04 18:26:03,350 - INFO - SUCCESS: اكتمل الفحص الدوري خلال 0.50 ثانية.
+2026-10-04 18:26:03,427 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-04 18:26:03,428 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-04 18:26:03,430 - INFO - Added job "run_job_refresh_mvs" to job store "default"
+2026-10-04 18:26:03,431 - INFO - Added job "run_job_daily_check" to job store "default"
+2026-10-04 18:26:03,431 - INFO - Scheduler started
